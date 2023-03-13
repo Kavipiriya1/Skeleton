@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+< Pragnesh'sBranch
     <Compile Include="clsproduct.cs" />
+
+    <Compile Include="clsmarketing.cs" />
+> master
     <Compile Include="clsSales.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
